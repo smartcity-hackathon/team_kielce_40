@@ -1,11 +1,5 @@
 # SafeCK
-Web application ensuring security for the city of Kielce - Hackathon Idea Kielce June 2018
-
-Naszym celem jest podniesienie poziomu bezpieczeństwa w mieście Kielce przez wprowadzenie główynch funkcji aplikacji:
-
-* Powiadomienia na mieszkańców o zbliżającym się niebezpieczeństwie lub ważnym wydarzeniu
-* Mapa z dostępnymi aptekami z informacją o dyżurach
-* Mapa szpitali i możliwej pomocy
+Web application for the city of Kielce - Hackathon Idea Kielce June 2018
 
 ## Technologies
 
